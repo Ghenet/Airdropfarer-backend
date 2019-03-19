@@ -1,4 +1,4 @@
-# Walk It Out
+# Airdropfarer
 ## Back-End Server
 Express with JWT authentication.
 
